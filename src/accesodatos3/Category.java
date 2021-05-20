@@ -11,6 +11,7 @@ import java.util.Set;
  */
 public class Category  implements java.io.Serializable {
 
+private String nombre="Belen Guijarro Cubero";
 
      private Byte categoryId;
      private String name;
